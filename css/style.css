@@ -1,0 +1,16 @@
+/*-- llamo todo el paquete de nib ---*/
+/*---- hola menu----*/
+nav {
+  border-bottom: 3px solid #ffa500;
+  background: #f00;
+  color: #000;
+}
+header {
+  background: -o-linear-gradient(top, #fff, #000);
+  background: -ms-linear-gradient(top, #fff, #000);
+  background: -webkit-linear-gradient(top, #fff, #000);
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  -webkit-transition: 1s;
+  -webkit-box-shadow: #123456 0 0 10px;
+}

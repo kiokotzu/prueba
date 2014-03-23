@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>probando fundation y stylus</title>
 	<link rel="stylesheet" href="css/fundation.css">
-	<link rel="stylesheet" href="stylus/style.css">
+	<link rel="stylesheet" href="css/style.css">
 
 	<script src="js/modernizr.min.js"></script>
 </head>

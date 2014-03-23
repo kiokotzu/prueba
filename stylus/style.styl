@@ -1,3 +1,19 @@
-/*---- menu----*/
+/*-- llamo todo el paquete de nib ---*/
+
+@import 'nib'
+
+// con esta variable creamos todos los prefijos para los distintos navegadores
+vendor-prefixes = o ms webkit
+
+/*---- hola menu----*/
 nav 
    border-bottom 3px solid orange
+   background red
+   color #000
+
+header
+	background: linear-gradient(top, white, black)
+	transition 1s
+	// este debe ser el orden del box-shadow para que le agrege los prefijo nib
+	box-shadow: #123456 0 0 10px
+	
